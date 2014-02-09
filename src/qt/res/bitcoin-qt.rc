@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "StarCoin"
-            VALUE "FileDescription",    "StarCoin-Qt (OSS GUI client for StarCoin)"
+            VALUE "CompanyName",        "BSGCoin"
+            VALUE "FileDescription",    "BSGCoin-Qt (OSS GUI client for BSGCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "StarCoin-qt"
-            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The StarCoin & PPCoin developers"
+            VALUE "InternalName",       "BSGCoin-qt"
+            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The BSGCoin & PPCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "StarCoin-qt.exe"
-            VALUE "ProductName",        "StarCoin-Qt"
+            VALUE "OriginalFilename",   "BSGCoin-qt.exe"
+            VALUE "ProductName",        "BSGCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -1,9 +1,6 @@
 
-StarCoin - a decendent of Novacoin/PPCoin with Pow/PoS. It combines the great features from Luckycoin (random blocks) and Florincoin (transaction message). It is the first PoW/PoS coin supporting random blocks.
+BSGCoin - a decendent of Novacoin/PPCoin with Pow/PoS. It combines the great features from Luckycoin (random blocks) and Florincoin (transaction message).
 
-The official website is: www.starcoin.info
-
- 
 FEATURES:
 - PoW/PoS
 - Scrypt
@@ -25,7 +22,7 @@ BONUS BLOCKS (All Random)
 
 
 Ports:
-- Connection: 18216
-- RPC: 18217
+- Connection: 42028
+- RPC: 42029
 
 
